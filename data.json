@@ -1,0 +1,104 @@
+{
+    "Chairs" : [
+        {
+            "id" : "4f51f1ac-5828-4dcd-926e-ffbe1400e4be",
+            "name" : "A01",
+            "roomId" : "0ec6c94c-1e9a-450c-9bf1-53c949524db0",
+            "rowId" : "4ce48571-da07-46d5-9b7e-2a8b479cc841",
+            "price": 50000,
+            "status": 1
+        },
+        {
+            "id" : "419e6e30-7148-422c-8e20-52333e36135d",
+            "name" : "A02",
+            "roomId" : "0ec6c94c-1e9a-450c-9bf1-53c949524db0",
+            "rowId" : "4ce48571-da07-46d5-9b7e-2a8b479cc841",
+            "price": 50000,
+            "status": 1
+        },
+        {
+            "id" : "8283604f-915f-4620-ad60-6da49755354e",
+            "name" : "A03",
+            "roomId" : "0ec6c94c-1e9a-450c-9bf1-53c949524db0",
+            "rowId" : "4ce48571-da07-46d5-9b7e-2a8b479cc841",
+            "price": 50000,
+            "status": 1
+        },
+        {
+            "id" : "9cdb2808-00f5-4927-bfc6-78fe48e2904d",
+            "name" : "A04",
+            "roomId" : "0ec6c94c-1e9a-450c-9bf1-53c949524db0",
+            "rowId" : "4ce48571-da07-46d5-9b7e-2a8b479cc841",
+            "price": 50000,
+            "status": 1
+        },
+        {
+            "id" : "9e338975-d327-4805-94af-54d3b7e3f84e",
+            "name" : "A05",
+            "roomId" : "0ec6c94c-1e9a-450c-9bf1-53c949524db0",
+            "rowId" : "4ce48571-da07-46d5-9b7e-2a8b479cc841",
+            "price": 50000,
+            "status": 1
+        },
+        {
+            "id" : "4dee4aa1-112b-4ca1-9c9d-927605cb842d",
+            "name" : "B01",
+            "roomId" : "0ec6c94c-1e9a-450c-9bf1-53c949524db0",
+            "rowId" : "3e5ef567-44dd-43e5-9103-f9e79c802c31",
+            "price": 50000,
+            "status": 1
+        },
+        {
+            "id" : "8269d5d3-5917-4820-afab-0370cb8c0021",
+            "name" : "B02",
+            "roomId" : "0ec6c94c-1e9a-450c-9bf1-53c949524db0",
+            "rowId" : "3e5ef567-44dd-43e5-9103-f9e79c802c31",
+            "price": 50000,
+            "status": 1
+        },
+        {
+            "id" : "8b490c97-7311-45ee-b690-434970e8c723",
+            "name" : "B03",
+            "roomId" : "0ec6c94c-1e9a-450c-9bf1-53c949524db0",
+            "rowId" : "3e5ef567-44dd-43e5-9103-f9e79c802c31",
+            "price": 50000,
+            "status": 1
+        },
+        {
+            "id" : "f1aaf712-1b87-4f0b-bd85-2a69309825b9",
+            "name" : "B04",
+            "roomId" : "0ec6c94c-1e9a-450c-9bf1-53c949524db0",
+            "rowId" : "3e5ef567-44dd-43e5-9103-f9e79c802c31",
+            "price": 50000,
+            "status": 1
+        },
+        {
+            "id" : "c24324a4-626b-4e1b-93a1-a0dcf11e5310",
+            "name" : "B05",
+            "roomId" : "0ec6c94c-1e9a-450c-9bf1-53c949524db0",
+            "rowId" : "3e5ef567-44dd-43e5-9103-f9e79c802c31",
+            "price": 50000,
+            "status": 1
+        }   
+    ],
+    "Rows": [
+        {
+            "id": "4ce48571-da07-46d5-9b7e-2a8b479cc841",
+            "name": "A"
+        },
+        {
+            "id": "3e5ef567-44dd-43e5-9103-f9e79c802c31",
+            "name": "B"
+        }
+    ],
+    "Rooms": [
+        {
+            "id" : "0ec6c94c-1e9a-450c-9bf1-53c949524db0",
+            "name": "Screen01"
+        },
+        {
+            "id": "e97ca02b-4af8-40c3-b3f6-3bba76f368c6",
+            "name": "Screen02"
+        }
+    ]
+}
