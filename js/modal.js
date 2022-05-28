@@ -3,10 +3,9 @@ const btn = document.querySelectorAll("#myBtn");
 const span = document.getElementsByClassName("close")[0];
 for (let index = 0; index < btn.length; index++) {
     btn[index].onclick = function() {
-        modal.style.display = "block";
+      modal.style.display = "block";
     }
 }
-
 span.onclick = function() {
   modal.style.display = "none";
 }
